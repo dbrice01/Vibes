@@ -17,6 +17,10 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
 		}
 	]
 }
